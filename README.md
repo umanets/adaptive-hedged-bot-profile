@@ -77,9 +77,9 @@
 
 | Metric                  | Value                     |
 | ----------------------- | ------------------------- |
-| ⚪ Initial Capital       | \$2,000                   |
-| ✅ Realized + Unrealized | \$2,345 (if closed today) |
-| ⬆️ Profit               | **\$345**                 |
+| ⚪ Initial Capital       | \$200                   |
+| ✅ Realized + Unrealized | \$234.5 (if closed today) |
+| ⬆️ Profit               | **\$34.5**                 |
 | ⏳ Period                | 10 days                   |
 | 📊 ROI                  | \~17.25%                  |
 
